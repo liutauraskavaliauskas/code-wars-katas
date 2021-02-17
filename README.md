@@ -6,4 +6,5 @@
 - **[Multiplies of 3 or 5](https://www.codewars.com/kata/reviews/578840b8ea6a1ce290000002/groups/6024d644acef36000165bc05)**
 - **[Convert string to camel case](https://www.codewars.com/kata/reviews/5af529b442d45e8ca300134e/groups/60262101c07a950001d6bcbe)**
 - **[IP validation](https://www.codewars.com/kata/reviews/58a72323238a12e4d800019c/groups/602a1ac9b26e5c00010194a7)**
+- **[Rectangle into squares](https://www.codewars.com/kata/reviews/5790939e671cb57f790000d8/groups/602cb8e2265b840001ce1900)**
    
