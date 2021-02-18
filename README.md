@@ -7,4 +7,5 @@
 - **[Convert string to camel case](https://www.codewars.com/kata/reviews/5af529b442d45e8ca300134e/groups/60262101c07a950001d6bcbe)**
 - **[IP validation](https://www.codewars.com/kata/reviews/58a72323238a12e4d800019c/groups/602a1ac9b26e5c00010194a7)**
 - **[Rectangle into squares](https://www.codewars.com/kata/reviews/5790939e671cb57f790000d8/groups/602cb8e2265b840001ce1900)**
+- **[Reverse or rotate](https://www.codewars.com/kata/reviews/579c65f63fb8d9634c00043a/groups/602e0ba46d0198000120d335)**
    
