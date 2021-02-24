@@ -10,4 +10,5 @@
 - **[Reverse or rotate](https://www.codewars.com/kata/reviews/579c65f63fb8d9634c00043a/groups/602e0ba46d0198000120d335)**
 - **[Roman numerals decoder](https://www.codewars.com/kata/reviews/588aab99973eab5b620001d0/groups/602f5ba53938a30001722634)**
 - **[Weird string case](https://www.codewars.com/kata/reviews/5d02a99ca535d500019bb826/groups/6033511f9a0c5e00019e6377)**
+- **[Play with digits](https://www.codewars.com/kata/reviews/5797802a261e83177d000134/groups/6035f4bff133650001f827bb)**
    
