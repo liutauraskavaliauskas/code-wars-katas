@@ -12,4 +12,5 @@
 - **[Weird string case](https://www.codewars.com/kata/reviews/5d02a99ca535d500019bb826/groups/6033511f9a0c5e00019e6377)**
 - **[Play with digits](https://www.codewars.com/kata/reviews/5797802a261e83177d000134/groups/6035f4bff133650001f827bb)**
 - **[Sum of parts](https://www.codewars.com/kata/5ce399e0047a45001c853c2b/train/php/603741c7c55d3800266566bc)**
+- **[Rgb to hex](https://www.codewars.com/kata/513e08acc600c94f01000001/train/php/603c87a24ed28d002b48fd6f)**
    
